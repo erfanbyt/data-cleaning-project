@@ -11,7 +11,7 @@ result_JSON_file = {'file name': 'report for the coding assignment',
 # getting the location of the source file
 cur_path = os.getcwd()
 print(cur_path)
-exit()
+# exit()
 file_path = os.path.join(cur_path,'input/data.txt')
 
 # to generate the dataset containing the information for naming columns and assigning data types
