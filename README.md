@@ -23,7 +23,7 @@ This file contains all the libraries used in the code. It will be used to create
 The raw data is stored into the input folder.
 
 ### output folder
-The requested JSON file is stored in this folder.
+The requested JSON file and csv of the dataframe are stored in this folder.
 
 ## Instruction to run the code
 
