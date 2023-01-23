@@ -82,7 +82,10 @@ pip install -r requirements.txt
 python main.py
 ```
 
-After running the code successfully, "Code executed successfully!" will be displayed; a JSON file "results_Erfan" will be created.
+After running the code successfully, "Code executed successfully!" will be displayed
+OUTPUTs:
+1. JSON file: results_Erfan.json
+2. CSV file: dataframe.csv
 
 
 
