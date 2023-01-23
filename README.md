@@ -29,9 +29,12 @@ The requested JSON file is stored in this folder.
 
 1- Open the termial and clone the repo to your terminal -- using HTTPS
 
+
 ```bash
 git clone https://github.com/erfanbyt/MachineryAnalytics_coding_assignment.git
 ```
+
+
 
 2- change the directory to the project's folder
 
@@ -49,8 +52,22 @@ python3 -m venv venv
 
 4- activate the virtual environment 
 
+__ macOS users __
+
+
 ```bash
 source venv/bin/activate
+```
+
+__ windows users __
+
+```bash
+source venv/Scripts/activate
+```
+
+
+```bash
+git clone https://github.com/erfanbyt/MachineryAnalytics_coding_assignment.git
 ```
 
 5- install the required libraries from requirements.txt
