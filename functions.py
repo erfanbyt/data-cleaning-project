@@ -161,7 +161,7 @@ import pandas as pd
 import json
 
 
-def dict_combinber(dict_assignment_info, dict_data_specs):
+def dict_combiner(dict_assignment_info, dict_data_specs):
     """
     Combines 2 dictionaries - the mean values for the sensors are stored as list of dictionaries with KEY='data specification'
     - param dict_assignment_info: dictionary containing the assignment's info

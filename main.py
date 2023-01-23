@@ -29,8 +29,10 @@ df = column_renamer(df)
 df = apply_data_type(df, df_info)
 mean_dict = mean_calculator(df)
 mean_dict = data_reformater(mean_dict)
-result_JSON_file = dict_combinber(result_JSON_file, mean_dict)
+result_JSON_file = dict_combiner(result_JSON_file, mean_dict)
 json_writer(result_JSON_file)
+
+print('Code executed successfully!')
 
 
 
