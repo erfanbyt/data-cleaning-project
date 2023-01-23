@@ -65,11 +65,6 @@ __ windows users __
 source venv/Scripts/activate
 ```
 
-
-```bash
-git clone https://github.com/erfanbyt/MachineryAnalytics_coding_assignment.git
-```
-
 5- install the required libraries from requirements.txt
 
 ```bash
