@@ -1,2 +1,3 @@
 # project-MA
- The coding assignment
+
+This file includes the coding project!
