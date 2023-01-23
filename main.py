@@ -4,10 +4,10 @@ import os
 
 # creating the dictionary containing the info of the project
 result_JSON_file = {'file name': 'report for the coding assignment',
-                    'Start date': 'Jan. 22, 2023',
-                    'Start time': '10 AM',
-                    'End date': 'Jan, 22, 2023',
-                    'End time': '2 PM'}
+                    'Start date': 'Jan. 21, 2023',
+                    'Start time': '12 PM',
+                    'End date': 'Jan, 21, 2023',
+                    'End time': '4 PM'}
 
 
 # getting the location of the source file
