@@ -177,10 +177,20 @@ def dict_combiner(dict_assignment_info, dict_data_specs):
 
 def json_writer(python_dict):
     """
-    Get's a python dict and writes a JSON file
+    Gets a python dict and writes a JSON file
 
-    - param: a python dictionary
+    - param python_dict: a python dictionary
     """
 
-    with open("Erfan's results.json", 'w') as file:
+    with open("results_Erfan.json", 'w') as file:
         json.dump(python_dict, file, indent=2)  # setting proper indentation to get a readable output!
+
+
+def csv_writer(df):
+    """
+    Gets a dataframe and return the CSV file of if
+
+    - param df: a pandas dataframe
+    """
+
+    df.to_csv("dataframe.csv")
