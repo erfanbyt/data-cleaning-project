@@ -12,7 +12,7 @@ result_JSON_file = {'file name': 'report for the coding assignment',
 
 # getting the location of the source file
 cur_path = os.getcwd()
-file_path = os.path.join(cur_path,'input/data.txt')
+file_path = os.path.join(cur_path, 'input/data.txt')
 
 # to generate the dataset containing the information for naming columns and assigning data types
 df_info = data_maker(data_generator(file_path, line_nums=[6, 21]))

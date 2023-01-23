@@ -165,9 +165,9 @@ def dict_combiner(dict_assignment_info, dict_data_specs):
     """
     Combines 2 dictionaries - the mean values for the sensors are stored as list of dictionaries with KEY='data specification'
     - param dict_assignment_info: dictionary containing the assignment's info
-    - param dict_data_specs: dictionray cotaining the mean values
+    - param dict_data_specs: dictionary containing the mean values
 
-    - return: a dictionray containing information from both of the dictionaries.
+    - return: a dictionary containing information from both of the dictionaries.
     """
 
     dict_assignment_info['Data Specification'] = [dict_data_specs]
