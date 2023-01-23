@@ -27,10 +27,10 @@ The requested JSON file is stored in this folder.
 
 ## Instruction to run the code
 
-1- Open the termial and clone the repo to your terminal
+1- Open the termial and clone the repo to your terminal -- using HTTPS
 
 ```bash
-git clone git@github.com:erfanbyt/machinery_analytics.git
+git clone https://github.com/erfanbyt/MachineryAnalytics_coding_assignment.git
 ```
 
 2- change the directory to the project's folder
