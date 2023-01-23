@@ -40,7 +40,7 @@ git clone https://github.com/erfanbyt/MachineryAnalytics_coding_assignment.git
 
 
 ```bash
-cd machinery_analytics
+cd MachineryAnalytics_coding_assignment
 ```
 
 3- create a virtual environment (venv) in the directory
