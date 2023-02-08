@@ -1,3 +1,6 @@
+# Note:
+The input data is removed from the repo!
+
 # Coding assignment of machinery analytics
 
 This repo contains the following folders:
